@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 AI Developer with expertise in **Machine Learning, Data Analysis, and NLP**.
+- 🎓 AI Developer with expertise in **Machine Learning, deep learning, Data Analysis, and NLP**.
 - 🛠️ Proficient in **Python, Scikit-learn, TensorFlow, and Pandas**.
 - 🏆 Experienced in **classification models, sentiment analysis, and model optimization**.
 - 🔍 Passionate about solving complex problems & contributing to **innovative AI solutions**.
