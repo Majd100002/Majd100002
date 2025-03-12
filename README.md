@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Majd! 👋</h1>
 
 <p align="center">
-🚀 AI Developer | Machine Learning | NLP | Data Analysis
+🚀 AI Developer | Machine Learning | NLP |deep learning| Data Analysis
 </p>
 
 ---
