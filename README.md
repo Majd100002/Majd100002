@@ -23,7 +23,7 @@
 ---
 
 ### 📬 Connect with Me
-[![LinkedIn](www.linkedin.com/in/majd-kanaaan-4b7946273) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/majd-kanaaan-4b7946273) 
 _ _ _
 
 Updated GitHub profile README
